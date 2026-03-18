@@ -19,9 +19,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 -A web server such as Apache, IIS, or LiteSpeed with URL rewriting enabled
+
 -PHP (version 8.2–8.4 recommended) with required extensions like mysqli, mbstring, xml, and gd
+
 -A MySQL or MariaDB database with a dedicated database and user that has full permissions
+
 -Proper file permissions, especially write access for the osTicket configuration file
+
 -A supported operating system (Linux or Windows) with basic server and database administration knowledge
 
 <h2>Installation Steps</h2>
